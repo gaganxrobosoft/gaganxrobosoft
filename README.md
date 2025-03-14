@@ -3,6 +3,7 @@
  ## 💼 Work Experience:
 Robosoft Technologies (Feb/2025 - Now)
  - Data Analyst Intern
+   
    - Working as a Data Analyst Intern, exited to start a new chapter in this data analytics realm
 
  ## 🎓 Education:

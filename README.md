@@ -3,7 +3,7 @@
  ## 💼 Work Experience:
 Robosoft Technologies (Feb/2025 - Now)
  - Data Analyst Intern
- - Working as a Data Analyst Intern, exited to start a new chapter in this data analytics realm
+   - Working as a Data Analyst Intern, exited to start a new chapter in this data analytics realm
 
  ## 🎓 Education:
    - Masters in Big Data Analytics (08/2023 - Present, Expected Graduation: 08/2025)

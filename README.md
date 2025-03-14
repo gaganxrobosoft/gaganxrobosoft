@@ -7,10 +7,10 @@ Robosoft Technologies (Feb/2025 - Now)
 
  ## 🎓 Education:
    - Masters in Big Data Analytics (08/2023 - Present, Expected Graduation: 08/2025)
-   - St Aloysius University
-   - 
+     - St Aloysius University
+     
    - Bachelors of Computer Application (11/2020 - 08/2023)
-   - Mangalore University
+     - Mangalore University
   
 ## 📊 GitHub Stats:
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaganxrobosoft&theme=github_dark)

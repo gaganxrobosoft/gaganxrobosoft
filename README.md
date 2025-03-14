@@ -6,14 +6,20 @@ Robosoft Technologies (Feb/2025 - Now)
  - Working as a Data Analyst Intern, exited to start a new chapter in this data analytics realm
 
  ## 🎓 Education:
- ##- Masters in Big Data Analytics (08/2023 - Present, Expected Graduation: 08/2025)
+   - Masters in Big Data Analytics (08/2023 - Present, Expected Graduation: 08/2025)
    - St Aloysius University
    - 
- ##- Bachelors of Computer Application (11/2020 - 08/2023)
+   - Bachelors of Computer Application (11/2020 - 08/2023)
    - Mangalore University
   
 ## 📊 GitHub Stats:
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaganxrobosoft&theme=github_dark)
+
+## 📫 Get in Touch:
+- [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
+- [GitHub](https://www.github.com/gaganxrobosoft)
+- **Email:** gagan.x@robosoftin.com
+- 
 <!--
 **gaganxrobosoft/gaganxrobosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

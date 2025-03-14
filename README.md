@@ -17,7 +17,7 @@ Robosoft Technologies (Feb/2025 - Now)
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaganxrobosoft&theme=github_dark)
 
 ## 🔝 Top Contributed Repo and Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-KM&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaganxrobosoft&theme=radical&layout=compact)
 
 ## 📫 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/gagan-k-m-a0580b285)
